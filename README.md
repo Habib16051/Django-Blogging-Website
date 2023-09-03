@@ -16,7 +16,8 @@ Start date of developing: Nov-2021
 4. CSS-3
 
 ## Home page
-!![home page](https://github.com/MahmudJewel/techvillain-frontend/blob/main/screenshot/1-home.png)
+!![home page](![image](https://github.com/Habib16051/Django-Blogging-Website/assets/39822204/b2252d8d-bf16-45c4-b270-cb15216248a4)
+)
 
 ## Article page
 ![Article page](https://github.com/MahmudJewel/techvillain-frontend/blob/main/screenshot/2.0-article.png)

@@ -1,6 +1,6 @@
 {% extends 'home/base.html' %} {% block content %}
 <!-- title on top  -->
-<title>tech villain</title>
+<title>Huo Academy</title>
 <style></style>
 <div class="container">
   <div class="row">
@@ -31,11 +31,8 @@
           </div>
           <div class="row text-center">
             <p>
-              Mahmud Jewel is the co-founder of Ⓣⓔⓒⓗ ⓥⓘⓛⓛⓐⓘⓝ. He is a
-              professional full stack python developer & tech enthusiast. He
-              will share his experiences through this platform. All the
-              resources and knowledge shared on this platform are FREE. Happy
-              Coding
+              Habib is the co-founder of Huo Academy. He is a
+              professional python developer & tech enthusiast.
             </p>
           </div>
         </div>
@@ -110,7 +107,7 @@
     <div class="col-lg-3 p-3">
       <h3 class="m-2 heading text-center">Recent Articles</h3>
       {% for blog in blogs %}
-      <div class="shadow bgwhite border-radius25 my-3 p-2">
+      <div class="shadow bg-white border-radius25 my-3 p-2">
         <div class="row text-center p-2">
           <h5>{{ blog.title }}</h5>
           <p class="text-muted">{{blog.category}}</p>
@@ -118,7 +115,7 @@
             {{blog.desc150|safe}}
           </p> -->
           <div class="col">
-            <a href="/blog/{{blog.category.id}}?getid={{blog.id}}" class="btn btn-primary border-radius">Read more</a>
+            <a href="/blog/{{blog.category.id}}?getid={{blog.id}}" class="btn btn-success border-radius">Read more</a>
           </div>
         </div>
       </div>

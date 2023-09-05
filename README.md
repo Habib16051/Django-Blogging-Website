@@ -20,21 +20,7 @@ Start date of developing: Nov-2021
 
 
 ## Article page
-![Article page](https://github.com/MahmudJewel/techvillain-frontend/blob/main/screenshot/2.0-article.png)
-![Article page](https://github.com/MahmudJewel/techvillain-frontend/blob/main/screenshot/2.1.0-article%20page.png)
-![Article page](https://github.com/MahmudJewel/techvillain-frontend/blob/main/screenshot/2.1-article%20page.png)
 
-## Serach Page
-![Serach Page](https://github.com/MahmudJewel/techvillain-frontend/blob/main/screenshot/search%20item.png)
-
-## Admin-adding article
-![Admin-adding article](https://github.com/MahmudJewel/techvillain-frontend/blob/main/screenshot/3-add%20blog.png)
-
-## Responsive view
-![Responsive view](https://github.com/MahmudJewel/techvillain-frontend/blob/main/screenshot/ipone%20x.png)
-![Responsive view](https://github.com/MahmudJewel/techvillain-frontend/blob/main/screenshot/responsive%20ipad.png)
-![Responsive view](https://github.com/MahmudJewel/techvillain-frontend/blob/main/screenshot/responsive%20iphone%20x%20e.png)
-![Responsive view](https://github.com/MahmudJewel/techvillain-frontend/blob/main/screenshot/responsive%20iphone%20xe.png)
 
 The End
 
